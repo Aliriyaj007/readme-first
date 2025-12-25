@@ -1,0 +1,2 @@
+[console_scripts]
+readme-first = readme_first.cli:main
