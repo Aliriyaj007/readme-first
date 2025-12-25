@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "readme-first"
+version = "0.1.0"
+description = "Check if a GitHub repo is first-run friendly"
+authors = [{name="Riyajul Ali"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "rich",
+    "requests"
+]
+
+[project.scripts]
+readme-first = "readme_first.cli:main"
