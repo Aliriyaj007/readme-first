@@ -1,6 +1,6 @@
 # readme-first
 
-A CLI utility that checks if a GitHub repository is "first-run friendly" and helps developers lower the barrier to entry.
+A CLI tool that checks whether a GitHub repository is first-run friendly — and tells you exactly what’s missing to help users run your project in under 60 seconds.
 
 ## 🧐 Why This Exists
 
@@ -172,3 +172,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 - **Email**: aliriyaj007@protonmail.com
 
 *"Built to remove friction, not add features."*
+
